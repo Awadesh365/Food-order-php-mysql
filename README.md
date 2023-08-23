@@ -46,4 +46,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 4. Push your changes to your forked repository.
 
-5. Submit a pull request to the original repository with a clear description of your changes.
+5. Submit a pull request to the original repository.
