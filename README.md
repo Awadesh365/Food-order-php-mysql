@@ -44,6 +44,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 3. Make your changes and commit them.
 
+4. . Push your changes to your forked repository.
+
+5. Submit a pull request to the original repository.
+
 ## 📖  How to Download the Project and Run on your PC?
 
 ### Pre-Requisites:
@@ -92,6 +96,4 @@ $db_select = mysqli_select_db($conn, DB_NAME) or die(mysqli_error()); //SElectin
 ?>
 ```
 
-5. Push your changes to your forked repository.
 
-6. Submit a pull request to the original repository.
