@@ -1,5 +1,6 @@
 # Food Order Website
 
+
 This is a simple Food Order website built using PHP and MySQL. It provides an online platform for users to browse a menu and place orders for their favorite food items. Restaurant owners can manage their menu items and orders efficiently through the admin dashboard.
 
 ## Features
